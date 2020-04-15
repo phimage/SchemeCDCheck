@@ -37,4 +37,4 @@ schemeCDCheck /path/to/MyModel.xcdatamodeld /path/to/MyModel.sqlite
 
 ## Requierements
 
-- `sqlite3` command, accessible from path (I use `which`)
+- `sqlite3` binary https://www.sqlite.org/download.html, accessible from path (I use `which`)
