@@ -9,6 +9,10 @@ Useful to test if this is an old database not migrated yet.
 
 ## Install
 
+### Using release
+
+Go to https://github.com/phimage/SchemeCDCheck/releases and take the last binary for macOS SchemeCDCheck.zip
+
 ### Using sources
 
 ```
@@ -18,7 +22,6 @@ swift build -c release
 ```
 
 Binary result in `.build/release/schemeCDCheck`
-
 
 ## Usage
 
