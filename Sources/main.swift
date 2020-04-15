@@ -15,7 +15,6 @@ if CommandLine.arguments.count < 2 {
     exit(1)
 }
 
-let argument = CommandLine.arguments[1]
 var model: String = CommandLine.arguments[1]
 var data: String = CommandLine.arguments[2]
 
